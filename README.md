@@ -22,7 +22,7 @@ By the end of this tutorial, a functional network environment that includes an A
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Download the attached file in DRAFT form, How to Setup a Basic Home Lab Running Active Directory.docx : <br/>
 <!--<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>-->
 <br />
 </p>
