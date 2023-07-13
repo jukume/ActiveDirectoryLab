@@ -1,4 +1,4 @@
-<h1>Active Driectory Lab</h1>
+<h1>Active Directory Lab</h1>
 
 <h2>Description</h2>
 A personal documentation on Installing an Active Users Directory, DNS, and DHCP in Windows Server 2019 within a VirtualBox machine. A personal learning experienced on how to set up a Windows Server 2019 on a virtual machine in VirtualBox, install the necessary roles and features to configure an Active Directory, DNS, and DHCP server, and configure the settings to create a functional network environment.
