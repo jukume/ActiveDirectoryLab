@@ -15,9 +15,9 @@ By the end of this documentation, a functional network environment that includes
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10 <a>https://www.microsoft.com/en-ca/software-download/windows10</a></b>
-- <b>Windows Server 2019<a>https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019</a></b>
-- Virtual Box
+- <b>Windows 10.</b> <a><e>https://www.microsoft.com/en-ca/software-download/windows10</e></a>
+- <b>Windows Server 2019.</b> <a><e>https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019</e></a>
+- <b>Virtual Box.</b> <a><e>https://www.virtualbox.org/</e></a> 
 
 <h2>Program walk-through:</h2>
 
